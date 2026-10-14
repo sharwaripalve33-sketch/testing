@@ -1,0 +1,5 @@
+Many different types of models were proposed for estimating continuous representations of words, including LSA and LDA.
+The paper focuses on distributed representations of words learned by neural networks.
+The two architectures mentioned are feedforward neural network language model and recurrent neural network language model.
+The paper focuses on the feedforward neural network language model.
+Computational complexity is defined as the number of parameters needed to fully train the model.
